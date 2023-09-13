@@ -73,7 +73,7 @@ window.courses = [
         requirements: [2],
     },
     {
-        name: "Física II",
+        name: "Física Experimetal 1",
         credits: 2,
         code: "FEx I",
         semester: 2,
